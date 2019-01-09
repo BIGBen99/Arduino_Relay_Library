@@ -1,4 +1,4 @@
-Relay KEYWORD1
-open KEYWORD2
-close KEYWORD2
-openOn KEYWORD2
+Relay	KEYWORD1
+open	KEYWORD2
+close	KEYWORD2
+openOn	KEYWORD2
