@@ -4,7 +4,7 @@ Arduino library for Relay
 ================================================================================
 # Relay(relayPin)
 # Description
-A call to Relay(relayPin) creates a new Relay object.
+A call to Relay(relayPin) creates a new Relay object. By default, Relay is closed on LOW state.
 # Parameters
 relayPin: the digital pin (0-13 on Arduino Uno) on which the relay is plugged
 
